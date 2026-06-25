@@ -2,7 +2,7 @@
   "name": "pi-tdd-skills",
   "version": "1.0.0",
   "description": "mattpocock TDD skills for Pi",
-  "main": "index.ts"
+  "main": "index.ts",
   "pi": {
       "extensions": ["./pi-tdd-skills/index.js"],
       "skills": ["./skills"]
