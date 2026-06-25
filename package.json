@@ -1,0 +1,6 @@
+{
+  "name": "pi-tdd-skills",
+  "version": "1.0.0",
+  "description": "mattpocock TDD skills for Pi",
+  "main": "index.ts"
+}
