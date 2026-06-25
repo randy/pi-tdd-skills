@@ -3,4 +3,11 @@
   "version": "1.0.0",
   "description": "mattpocock TDD skills for Pi",
   "main": "index.ts"
+  "pi": {
+      "extensions": ["./pi-tdd-skills/index.js"],
+      "skills": ["./skills"]
+  },
+  "publishConfig": {
+      "access": "public"
+  }
 }
